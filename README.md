@@ -1,1 +1,11 @@
 # CS340_project2
+
+#### How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+I try to keep my code organized and easy to read by using clear names and breaking it into smaller sections. Creating the CRUD Python module in Project One made Project Two easier because I could reuse the same codr to connect the database instead of writing it again. It also made the dashboard easier to update because any changes could be make in one place. In the future I could use the same CRUD module for other Python projects that need to work with a MongoDB database.
+
+#### How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+I usually break a project into smaller pieces and work on one step at a time. For this project, I started by making sure the database connection was working, the used the CRUD module from Project One to connect the dashboard to the database. After that, I worked on the dashboard features one step at a time and tested tham as I went. This project was different from my assignments because it combined Python, MongoDB, and Dash into one application. In the future, I would continue building projects one step at a time and testing each part along the way to make it easier to find and fix problems.
+
+#### What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer  scientists create programs that help people solve problems and make their work easier. In this project, the dashboard helps Grazioso Salvare search and organize animal data much faster than looking through the database by hand. This saves time, makes the information easier to use, and helps the company make better decisions.
+
